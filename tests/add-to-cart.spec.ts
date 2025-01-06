@@ -1,5 +1,4 @@
-import {test, expect} from '@playwright/test';
-import { text } from 'stream/consumers';
+import { test, expect } from '@playwright/test';
 
 test('Add an item to the cart', async ({page}) => {
 
