@@ -1,5 +1,6 @@
 {
     "compilerOptions": {
+      "strict": true,
       "target": "ES6",                           // Compile to ES6 JavaScript
       "module": "commonjs",                      // Use CommonJS modules
       "esModuleInterop": true,                   // Allow import of non-ES modules
